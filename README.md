@@ -1,28 +1,27 @@
 # Super-Store-Sales-Dashboard
 
-Data Preparation: 
+## Data Preparation:
+-1.Cleaned and transformed raw sales data
+-2.Converted Order Date into month-wise and year-wise format
+-3.Prepared data model for analysis
 
-1.Cleaned and transformed raw sales data
-2.Converted Order Date into month-wise and year-wise format
-3.Prepared data model for analysis
 
-Key KPIs:
 
-1.Total Sales
-2.Total Orders
-3.Total Profit
-4.Average Shipping Days
+## Key KPIs:
+-1.Total Sales
+-2.Total Orders
+-3.Total Profit
+-4.Average Shipping Days
 
-Dashboard Visuals:
-
-1.Region-wise Sales
-2.Sales by Payment Mode
-3.Sales vs Consumer Type
-4.Sales by Product Category & Sub-Category
-5.Monthly Sales & Profit by Year
-6.Sales by Shipping Mode
-7.Top Performing States
-8.15-Day Sales Forecast
+## Dashboard Visuals:
+-1.Region-wise Sales
+-2.Sales by Payment Mode
+-3.Sales vs Consumer Type
+-4.Sales by Product Category & Sub-Category
+-5.Monthly Sales & Profit by Year
+-6.Sales by Shipping Mode
+-7.Top Performing States
+-8.15-Day Sales Forecast
 
 This dashboard provides "Regions" as a slicer thus making it interactive for the user who can see the region wise sales for each chart. The dashboard solves questions like: 
 
